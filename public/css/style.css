@@ -1,0 +1,10 @@
+.header{
+    height:1rem;
+    background-color: rgb(142, 142, 215);
+}
+.header h1 {
+    color: red;
+}
+.intro {
+    color: green;
+}
